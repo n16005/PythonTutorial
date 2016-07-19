@@ -3,11 +3,11 @@ def cal(year, month=1, day=1):
 
    """
    年月日から曜日を計算します
-   　　　曜日は0（日曜）から6（土曜）
-   :param year:
-   :param month:
-   :param day:
-   :return:
+   　　　曜日は0（日曜）から6（土曜）の数値で表現します
+   :param year:　西暦4桁
+   :param month:月
+   :param day:日
+   :return:０−６（日曜から土曜）
    """
 　
 　　_year = year
