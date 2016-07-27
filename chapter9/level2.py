@@ -1,8 +1,8 @@
-from . import things
+from . things import Things
 
 
-class Animate(things):
+class Animate(Things):
     pass
 
-class Inanimate(things):
+class Inanimate(Things):
     pass
