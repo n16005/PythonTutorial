@@ -13,7 +13,7 @@ class Animals(Animate):
 
 
 class Mammals(Animate):
-    psss
+    pass
 
 
 class Giraffes(Mammals):
